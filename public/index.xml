@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Modeling</title>
+    <link>https://eventmodeling.org/</link>
+    <description>Recent content on Event Modeling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 19:48:07 -0700</lastBuildDate>
+    
+	<atom:link href="https://eventmodeling.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>https://eventmodeling.org/resources/</link>
+      <pubDate>Thu, 27 Jun 2019 19:48:07 -0700</pubDate>
+      
+      <guid>https://eventmodeling.org/resources/</guid>
+      <description>Slack Group The community needed a non-technical discussion on Information System design. The Slack channel was created to create an environment where this type of discussion could happen and allow a new avenue for the practice to get adopted. You can join the community throught this link
+Intro Video This is a more recent video of Event Modeling being explained to the DDD Greece meetup group.
+This is the first public recording of a talk on Event Modeling.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://eventmodeling.org/about/</link>
+      <pubDate>Sun, 23 Jun 2019 20:37:58 +0530</pubDate>
+      
+      <guid>https://eventmodeling.org/about/</guid>
+      <description>Event Modeling was coined by Adam Dymitruk by building on long-running process specifications that Greg Young used in CQRS/ES systems. Alberto Brandolini&amp;rsquo;s Event Storming sticky notes and collaboration was integrated to adopt the workshop format. The final piece was the UI/UX aspects to complete what more resembles a movie story board. In the recent years many organizations were able to get on the same page with all departments and get their projects done with much greater efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Event Modeling: What is it?</title>
+      <link>https://eventmodeling.org/posts/what-is-event-modeling/</link>
+      <pubDate>Sun, 23 Jun 2019 19:01:58 +0700</pubDate>
+      
+      <guid>https://eventmodeling.org/posts/what-is-event-modeling/</guid>
+      <description>Motivation Moore&amp;rsquo;s Law Digitized Information Systems are a relatively new concept. Humans have been working with information systems for thousands of years. Over centuries banks, insurance companies and many other large scale organizations have managed to succeed.
+With the advent of the transistor, the speed and accuracy of processing information increased by orders of magnitude. What did not gain the same quantum leap is digital storage. This imbalance caused information systems to be optimized for a very small amount of online information.</description>
+    </item>
+    
+  </channel>
+</rss>

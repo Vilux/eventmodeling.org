@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Background on Event Modeling</title>
+    <link>https://eventmodeling.org/tags/background/</link>
+    <description>Recent content in Background on Event Modeling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 19:01:58 +0700</lastBuildDate>
+    
+	<atom:link href="https://eventmodeling.org/tags/background/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event Modeling: What is it?</title>
+      <link>https://eventmodeling.org/posts/what-is-event-modeling/</link>
+      <pubDate>Sun, 23 Jun 2019 19:01:58 +0700</pubDate>
+      
+      <guid>https://eventmodeling.org/posts/what-is-event-modeling/</guid>
+      <description>Motivation Moore&amp;rsquo;s Law Digitized Information Systems are a relatively new concept. Humans have been working with information systems for thousands of years. Over centuries banks, insurance companies and many other large scale organizations have managed to succeed.
+With the advent of the transistor, the speed and accuracy of processing information increased by orders of magnitude. What did not gain the same quantum leap is digital storage. This imbalance caused information systems to be optimized for a very small amount of online information.</description>
+    </item>
+    
+  </channel>
+</rss>

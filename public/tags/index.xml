@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Event Modeling</title>
+    <link>https://eventmodeling.org/tags/</link>
+    <description>Recent content in Tags on Event Modeling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 19:01:58 +0700</lastBuildDate>
+    
+	<atom:link href="https://eventmodeling.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Background</title>
+      <link>https://eventmodeling.org/tags/background/</link>
+      <pubDate>Sun, 23 Jun 2019 19:01:58 +0700</pubDate>
+      
+      <guid>https://eventmodeling.org/tags/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://eventmodeling.org/tags/intro/</link>
+      <pubDate>Sun, 23 Jun 2019 19:01:58 +0700</pubDate>
+      
+      <guid>https://eventmodeling.org/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>https://eventmodeling.org/tags/theory/</link>
+      <pubDate>Sun, 23 Jun 2019 19:01:58 +0700</pubDate>
+      
+      <guid>https://eventmodeling.org/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
